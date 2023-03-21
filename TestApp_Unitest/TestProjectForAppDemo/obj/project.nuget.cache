@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yiWlTLYPSVt4Rcfh9VK8D2IRFMqG5jK2lrmFeQLnWwTjSAyMNmq+IZec1NXSxT0Y00wcZbpSpGNEXgfEvUORqQ==",
+  "success": true,
+  "projectFilePath": "C:\\data\\TestApp_Unitest\\TestProjectForAppDemo\\TestProjectForAppDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nir.g\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\nir.g\\.nuget\\packages\\coverlet.msbuild\\3.2.0\\coverlet.msbuild.3.2.0.nupkg.sha512",
+    "C:\\Users\\nir.g\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\nir.g\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\nir.g\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\nir.g\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

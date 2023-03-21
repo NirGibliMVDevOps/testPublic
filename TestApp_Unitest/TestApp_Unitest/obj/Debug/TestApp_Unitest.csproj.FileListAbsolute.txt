@@ -1,0 +1,6 @@
+C:\data\TestApp_Unitest\TestApp_Unitest\bin\Debug\TestApp_Unitest.exe.config
+C:\data\TestApp_Unitest\TestApp_Unitest\bin\Debug\TestApp_Unitest.exe
+C:\data\TestApp_Unitest\TestApp_Unitest\bin\Debug\TestApp_Unitest.pdb
+C:\data\TestApp_Unitest\TestApp_Unitest\obj\Debug\TestApp_Unitest.csproj.CoreCompileInputs.cache
+C:\data\TestApp_Unitest\TestApp_Unitest\obj\Debug\TestApp_Unitest.exe
+C:\data\TestApp_Unitest\TestApp_Unitest\obj\Debug\TestApp_Unitest.pdb

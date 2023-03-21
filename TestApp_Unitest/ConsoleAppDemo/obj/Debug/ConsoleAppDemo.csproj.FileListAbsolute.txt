@@ -1,0 +1,8 @@
+C:\data\TestApp_Unitest\ConsoleAppDemo\bin\Debug\ConsoleAppDemo.exe.config
+C:\data\TestApp_Unitest\ConsoleAppDemo\bin\Debug\ConsoleAppDemo.exe
+C:\data\TestApp_Unitest\ConsoleAppDemo\bin\Debug\ConsoleAppDemo.pdb
+C:\data\TestApp_Unitest\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.csproj.CoreCompileInputs.cache
+C:\data\TestApp_Unitest\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.exe
+C:\data\TestApp_Unitest\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.pdb
+C:\data\TestApp_Unitest\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.csproj.AssemblyReference.cache
+C:\data\TestApp_Unitest\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\data\\TestApp_Unitest\\TestProjectForAppDemo\\TestProjectForAppDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\data\\TestApp_Unitest\\ConsoleAppDemo\\ConsoleAppDemo.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\data\\TestApp_Unitest\\ConsoleAppDemo\\ConsoleAppDemo.csproj",
+        "projectName": "ConsoleAppDemo",
+        "projectPath": "C:\\data\\TestApp_Unitest\\ConsoleAppDemo\\ConsoleAppDemo.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\data\\TestApp_Unitest\\TestProjectForAppDemo\\TestProjectForAppDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\TestApp_Unitest\\TestProjectForAppDemo\\TestProjectForAppDemo.csproj",
+        "projectName": "TestProjectForAppDemo",
+        "projectPath": "C:\\data\\TestApp_Unitest\\TestProjectForAppDemo\\TestProjectForAppDemo.csproj",
+        "packagesPath": "C:\\Users\\nir.g\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\TestApp_Unitest\\TestProjectForAppDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nir.g\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {
+              "C:\\data\\TestApp_Unitest\\ConsoleAppDemo\\ConsoleAppDemo.csproj": {
+                "projectPath": "C:\\data\\TestApp_Unitest\\ConsoleAppDemo\\ConsoleAppDemo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
